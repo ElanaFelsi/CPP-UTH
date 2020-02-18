@@ -13,3 +13,6 @@
 [submodule "Schedular-Implementation"]
 	path = Schedular-Implementation
 	url = https://github.com/ElanaFelsi/Schedular-Implementation.git
+[submodule "Memory-Allocator"]
+	path = Memory-Allocator
+	url = https://github.com/ElanaFelsi/Memory-Allocator.git
