@@ -19,3 +19,6 @@
 [submodule "smartPointers-Implementation"]
 	path = smartPointers-Implementation
 	url = https://github.com/ElanaFelsi/smartPointers-Implementation.git
+[submodule "c-front"]
+	path = c-front
+	url = https://github.com/ElanaFelsi/c-front.git
