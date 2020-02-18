@@ -4,3 +4,6 @@
 [submodule "fixedPoint"]
 	path = fixedPoint
 	url = https://github.com/ElanaFelsi/fixedPoint.git
+[submodule "genericVector"]
+	path = genericVector
+	url = https://github.com/ElanaFelsi/genericVector.git
