@@ -1,3 +1,6 @@
 [submodule "hashMap-Implementaion"]
 	path = hashMap-Implementaion
 	url = https://github.com/ElanaFelsi/hashMap-Implementaion.git
+[submodule "fixedPoint"]
+	path = fixedPoint
+	url = https://github.com/ElanaFelsi/fixedPoint.git
