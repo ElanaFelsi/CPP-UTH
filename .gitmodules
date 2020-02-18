@@ -10,3 +10,6 @@
 [submodule "Pre-processor"]
 	path = Pre-processor
 	url = https://github.com/ElanaFelsi/Pre-processor.git
+[submodule "Schedular-Implementation"]
+	path = Schedular-Implementation
+	url = https://github.com/ElanaFelsi/Schedular-Implementation.git
