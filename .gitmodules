@@ -16,3 +16,6 @@
 [submodule "Memory-Allocator"]
 	path = Memory-Allocator
 	url = https://github.com/ElanaFelsi/Memory-Allocator.git
+[submodule "smartPointers-Implementation"]
+	path = smartPointers-Implementation
+	url = https://github.com/ElanaFelsi/smartPointers-Implementation.git
